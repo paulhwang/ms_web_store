@@ -177,6 +177,7 @@
     <Compile Include="Models\ViewModel\Account\UserNavPartialVM.cs" />
     <Compile Include="Models\ViewModel\Account\UserProfileVM.cs" />
     <Compile Include="Models\ViewModel\Account\UserVM.cs" />
+    <Compile Include="Models\ViewModel\Cart\CartVM.cs" />
     <Compile Include="Models\ViewModel\Pages\PageVM.cs" />
     <Compile Include="Models\ViewModel\Pages\SidebarVM.cs" />
     <Compile Include="Models\ViewModel\Shop\CategoryVM.cs" />
