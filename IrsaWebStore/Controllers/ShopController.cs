@@ -1,4 +1,5 @@
-﻿using IrsaWebStore.Models.Data;
+﻿#if false
+using IrsaWebStore.Models.Data;
 using IrsaWebStore.Models.ViewModel.Shop;
 using System;
 using System.Collections.Generic;
@@ -87,3 +88,4 @@ namespace IrsaWebStore.Controllers
         }
     }
 }
+#endif
